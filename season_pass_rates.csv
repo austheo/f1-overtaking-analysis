@@ -1,0 +1,73 @@
+year,round,event,phase,n_drivers,pairs,transitions,passes,rate_per_100_pairs,total_events,pit_excluded,neutral_excluded,jump_excluded
+2025,1,Australian Grand Prix,opening,20,190,9,0,0.0,94,75,46,51
+2025,1,Australian Grand Prix,steady,20,190,46,15,0.1716,94,75,46,51
+2025,2,Chinese Grand Prix,opening,20,190,9,0,0.0,174,149,0,6
+2025,2,Chinese Grand Prix,steady,20,190,45,25,0.2924,174,149,0,6
+2025,3,Japanese Grand Prix,opening,20,190,9,2,0.117,125,112,0,24
+2025,3,Japanese Grand Prix,steady,20,190,42,11,0.1378,125,112,0,24
+2025,4,Bahrain Grand Prix,opening,20,190,9,7,0.4094,302,252,28,88
+2025,4,Bahrain Grand Prix,steady,20,190,46,39,0.4462,302,252,28,88
+2025,5,Saudi Arabian Grand Prix,opening,20,190,9,3,0.1754,110,77,1,0
+2025,5,Saudi Arabian Grand Prix,steady,20,190,39,29,0.3914,110,77,1,0
+2025,6,Miami Grand Prix,opening,20,190,9,7,0.4094,78,58,27,0
+2025,6,Miami Grand Prix,steady,20,190,46,7,0.0801,78,58,27,0
+2025,7,Emilia Romagna Grand Prix,opening,20,190,9,5,0.2924,188,140,37,24
+2025,7,Emilia Romagna Grand Prix,steady,20,190,52,42,0.4251,188,140,37,24
+2025,8,Monaco Grand Prix,opening,20,190,9,0,0.0,81,78,0,0
+2025,8,Monaco Grand Prix,steady,20,190,67,3,0.0236,81,78,0,0
+2025,9,Spanish Grand Prix,opening,19,171,9,2,0.13,211,173,13,6
+2025,9,Spanish Grand Prix,steady,19,171,55,35,0.3721,211,173,13,6
+2025,10,Canadian Grand Prix,opening,20,190,9,0,0.0,199,156,0,3
+2025,10,Canadian Grand Prix,steady,20,190,59,42,0.3747,199,156,0,3
+2025,11,Austrian Grand Prix,opening,19,171,9,2,0.13,180,151,3,0
+2025,11,Austrian Grand Prix,steady,19,171,59,27,0.2676,180,151,3,0
+2025,12,British Grand Prix,opening,19,171,9,2,0.13,216,186,73,87
+2025,12,British Grand Prix,steady,19,171,41,15,0.2139,216,186,73,87
+2025,13,Belgian Grand Prix,opening,20,190,9,10,0.5848,120,98,0,48
+2025,13,Belgian Grand Prix,steady,20,190,33,12,0.1914,120,98,0,48
+2025,14,Hungarian Grand Prix,opening,20,190,9,4,0.2339,186,152,0,0
+2025,14,Hungarian Grand Prix,steady,20,190,59,30,0.2676,186,152,0,0
+2025,15,Dutch Grand Prix,opening,20,190,9,4,0.2339,147,111,55,38
+2025,15,Dutch Grand Prix,steady,20,190,61,24,0.2071,147,111,55,38
+2025,16,Italian Grand Prix,opening,19,171,9,7,0.4548,149,125,0,0
+2025,16,Italian Grand Prix,steady,19,171,42,17,0.2367,149,125,0,0
+2025,17,Azerbaijan Grand Prix,opening,20,190,9,12,0.7018,107,81,2,0
+2025,17,Azerbaijan Grand Prix,steady,20,190,40,13,0.1711,107,81,2,0
+2025,18,Singapore Grand Prix,opening,20,190,9,2,0.117,158,130,0,0
+2025,18,Singapore Grand Prix,steady,20,190,51,26,0.2683,158,130,0,0
+2025,19,United States Grand Prix,opening,20,190,9,5,0.2924,132,93,15,6
+2025,19,United States Grand Prix,steady,20,190,45,21,0.2456,132,93,15,6
+2025,20,Mexico City Grand Prix,opening,20,190,9,13,0.7602,174,127,0,6
+2025,20,Mexico City Grand Prix,steady,20,190,60,34,0.2982,174,127,0,6
+2025,21,São Paulo Grand Prix,opening,20,190,9,2,0.117,299,242,24,22
+2025,21,São Paulo Grand Prix,steady,20,190,60,40,0.3509,299,242,24,22
+2025,22,Las Vegas Grand Prix,opening,20,190,9,2,0.117,108,90,19,0
+2025,22,Las Vegas Grand Prix,steady,20,190,39,15,0.2024,108,90,19,0
+2025,23,Qatar Grand Prix,opening,20,190,9,2,0.117,126,120,40,29
+2025,23,Qatar Grand Prix,steady,20,190,46,4,0.0458,126,120,40,29
+2025,24,Abu Dhabi Grand Prix,opening,20,190,9,2,0.117,242,184,0,33
+2025,24,Abu Dhabi Grand Prix,steady,20,190,47,53,0.5935,242,184,0,33
+2026,1,Australian Grand Prix,opening,20,190,9,24,1.4035,93,56,45,18
+2026,1,Australian Grand Prix,steady,20,190,47,10,0.112,93,56,45,18
+2026,2,Chinese Grand Prix,opening,18,153,9,12,0.8715,142,69,30,21
+2026,2,Chinese Grand Prix,steady,18,153,45,55,0.7988,142,69,30,21
+2026,3,Japanese Grand Prix,opening,22,231,9,18,0.8658,106,64,25,0
+2026,3,Japanese Grand Prix,steady,22,231,42,23,0.2371,106,64,25,0
+2026,4,Miami Grand Prix,opening,22,231,9,7,0.3367,124,66,23,6
+2026,4,Miami Grand Prix,steady,22,231,46,37,0.3482,124,66,23,6
+2026,5,Canadian Grand Prix,opening,21,210,9,14,0.7407,110,75,6,26
+2026,5,Canadian Grand Prix,steady,21,210,57,19,0.1587,110,75,6,26
+2026,6,Monaco Grand Prix,opening,22,231,9,0,0.0,53,41,4,4
+2026,6,Monaco Grand Prix,steady,22,231,67,8,0.0517,53,41,4,4
+2026,7,Barcelona Grand Prix,opening,22,231,9,7,0.3367,196,172,24,6
+2026,7,Barcelona Grand Prix,steady,22,231,55,16,0.1259,196,172,24,6
+2026,8,Austrian Grand Prix,opening,22,231,9,7,0.3367,169,138,14,3
+2026,8,Austrian Grand Prix,steady,22,231,60,22,0.1587,169,138,14,3
+2026,9,British Grand Prix,opening,22,231,9,16,0.7696,123,85,35,6
+2026,9,British Grand Prix,steady,22,231,41,17,0.1795,123,85,35,6
+2026,10,Belgian Grand Prix,opening,22,231,9,20,0.962,116,68,44,11
+2026,10,Belgian Grand Prix,steady,22,231,33,19,0.2492,116,68,44,11
+2026,11,Hungarian Grand Prix,opening,22,231,9,10,0.481,178,144,12,0
+2026,11,Hungarian Grand Prix,steady,22,231,59,24,0.1761,178,144,12,0
+2026,12,Dutch Grand Prix,opening,22,231,9,10,0.481,221,172,13,12
+2026,12,Dutch Grand Prix,steady,22,231,61,36,0.2555,221,172,13,12
